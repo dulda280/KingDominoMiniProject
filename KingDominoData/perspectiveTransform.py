@@ -2,6 +2,8 @@ import os
 import glob
 import cv2
 import numpy as np
+import matplotlib
+
 
 class RoiHandler:
     def __init__(self):
