@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/KingDominoMiniProject.iml" filepath="$PROJECT_DIR$/.idea/KingDominoMiniProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kingDominoEgenTest/.idea/kingDominoEgenTest.iml" filepath="$PROJECT_DIR$/../kingDominoEgenTest/.idea/kingDominoEgenTest.iml" />
     </modules>
   </component>
 </project>
