@@ -13,9 +13,10 @@ for images in image_directory:
     # image = cv2.resize(image, (100, 100))
     all_images.append(image)
     cv2.imshow("img", image)
+    print(all_images)
     cv2.waitKey(0)
 
-print(all_images)
+
 
 # cv2.imshow(all_images[0])
 
